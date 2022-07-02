@@ -1,0 +1,145 @@
+*{
+	padding: 0;
+  margin:  0;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+} 
+
+.two p{
+  display: inline; 
+  margin-right: 30px; 
+  font-size: 20px; 
+  color: rgb(207, 209, 227);
+  
+} 
+
+.two {
+  float: right; 
+  
+}
+
+.Navi div{
+  display: inline-block; 
+}
+
+.Navi {
+ padding-top: 20px;
+/* 	border-bottom: 0.5px solid gray; */
+	box-shadow: 5px 3px 5px 3px rgb(233, 234, 247);
+} 
+
+.Navi .two p a {
+	text-decoration: none;
+  color: rgb(207, 209, 227);
+	
+} 
+.bottom{
+  background-image: url(https://tse3.mm.bing.net/th?id=OIP.R8m6H73jEeRkb92k6kOb0gHaEK&pid=Api&P=0&w=327&h=184); 
+  background-repeat: no-repeat; 
+  background-attachment: fixed; 
+  background-size: cover; 
+  height: 120vh;
+  width: 100%;
+}
+
+.bottom img {
+  margin-left: 600px; 
+} 
+.bettom p{
+  margin-left: 300px; 
+  font-size: 50px; 
+} 
+span p{ 
+  display: inline;
+  padding: 15px 20px;
+  margin-left: 300px;
+  border: 1px solid black;
+  border-radius: 15px;
+  cursor: pointer; 
+  font-family: "algerian"; 
+  background-color: rgb(247, 228, 228);
+} 
+
+footer{ 
+  height: 100px;
+/*   margin-top: 100px;  */
+  text-align:center; 
+  background-color: rgb(233, 234, 247);
+} 
+
+.bottom div {
+	display: inline-block;
+}
+
+.button_w {
+	position: absolute;
+	top: 400px;
+	left: 50px;
+} 
+
+.logo{
+  width: 90%; 
+  margin-left: 60px; 
+  margin-top: 20px;
+} 
+
+.logo p{
+  font-size: 20px; 
+  margin-top: 20px;
+} 
+
+.bar {
+  width: 50%;
+  margin-left: 40px;
+} 
+
+.hat h1{
+  margin-left: 40px;
+} 
+
+.Text{
+  margin-top: 40px; 
+  font-size: 50px;
+  color: rgb(25, 179, 109); 
+  font-family: "algerian";
+} 
+
+.Image{
+  border: 0.5px solid black;
+  width: 30%;
+} 
+.Image img{ 
+  width: 100%;
+  border-radius: 15px; 
+  height: 180px;
+} 
+
+.whole div {
+  display: inline-block; 
+  margin: 8px; 
+  box-shadow: 5px 8px 8px 5px gray; 
+  border-radius: 15px;
+	overflow: hidden;
+} 
+.Role {
+  margin-left: 300px; 
+  margin-top: 20px; 
+  width: 400px;
+} 
+
+.Role p{
+  margin-top: 5px;
+}
+
+button{
+  margin-top: 10px;
+} 
+
+.whole{
+  text-align: center;
+} 
+
+
